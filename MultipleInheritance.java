@@ -1,4 +1,4 @@
-//implementation of Multple inheritance
+//implementation of hierarchical inheritance
 class Person
 {
 	String name;
